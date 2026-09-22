@@ -1,0 +1,9 @@
+# C/C++ build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+
+# IDE/editor local files
+.vscode/*.log
